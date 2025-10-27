@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+
+# Données locales (ne pas pousser les brutes)
+data/raw/*
+!data/raw/README.md
+
+# Sorties / artefacts (si tu exportes des images)
+figures/
+reports/
