@@ -12,7 +12,7 @@ Analyses exploratoires + modèle simple d’estimation salariale (GBM) sur le ma
 
 ## 🪄 Présentation (Gamma)
 
-- 🔗 **Voir la présentation interactive** : https://TON_LIEN_GAMMA_ICI
+- 🔗 **Voir la présentation interactive** : https://gamma.app/docs/Marche-des-metiers-techIA-2025-tendances-salariales-et-leviers-caeg8wly9bdq6pe
 
 ## 🛠️ Installation locale (optionnel)
 
